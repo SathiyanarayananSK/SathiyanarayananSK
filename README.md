@@ -23,7 +23,7 @@ This GitHub account is a repository of my journey, showcasing:
 - **Present Challenges:** What I'm learning and building right now  
 - **Future Goals:** My evolving journey into advanced analytics and data technologies  
 
-Feel free to explore my repositories and connect with me at [sathiyanarayanan.au@gmail.com](mailto:sathiyanarayanan.au@gmail.com) if you'd like to collaborate or discuss all things data!
+Feel free to explore my repositories and connect with me at [sathiyanarayanan.s1698@gmail.com](mailto:sathiyanarayanan.s1698@gmail.com) if you'd like to collaborate or discuss all things data!
 
 
 
