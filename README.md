@@ -4,26 +4,26 @@ Hi there! I'm @SathiyanarayananSK, a Master of Data Science student with a deep 
 
 ## 💡 About Me  
 
-- 🚀 Core Skills
- - 🖥️ Programming
-  1. **Python:**  
-  - **Basics:** Proficient in fundamentals and essentials
-  - **Modules:** `random`, `smtplib`, `requests`, `re`
-  - **Data Analysis:** `pandas`
-  - **SQL Libraries:** `sqlite3`, `psycopg`
-  - **Web Scraping:** `Selenium`, `selectorlib`
-  - **Frameworks & Tools:** Basic familiarity with `Flask`, `Django`, `fpdf`, `nltk`, and `PyQt`
+### 🚀 **Core Skills**
 
-- **SQL:** Strong foundation in relational databases with hands-on experience in most of the regularly used commands.
+  **(a) 🖥️ Programming - Python:**  
+   - **Basics:** Proficient in fundamentals and essentials
+   - **Modules:** `random`, `smtplib`, `requests`, `re`
+   - **Data Analysis:** `pandas`
+   - **SQL Libraries:** `sqlite3`, `psycopg`
+   - **Web Scraping:** `Selenium`, `selectorlib`
+   - **Frameworks & Tools:** Basic familiarity with `Flask`, `Django`, `fpdf`, `nltk`, and `PyQt`
 
-- **Git:** Confident in version control basics for seamless collaboration and project management.
+  **(b) 🖥️ SQL:** Strong foundation in relational databases with hands-on experience in most of the regularly used commands.
+
+  **(c) 🖥️ Git-GitHub:** Confident in version control basics for seamless collaboration and project management.
   
-- 📊 **Domain Expertise:**  
+### 📊 **Domain Expertise:**  
   **Retail experience** 
   - **Point Of Sale (POS):** Facilitated a seamless transition of the POS software, resolved technical issues reported by stores, ensured accurate sales data and reporting, and collaborated with cross-functional teams to enhance system capabilities.  
   - **E-commerce:** Managed and resolved B2B/B2C website issues using HTML, Unix, and SQL, maintained and optimized web servers, and collaborated with various teams to ensure website updates aligned with business objectives. 
 
-- 🌱 **What's Next?**  
+### 🌱 **What's Next?**  
   - Upskilling in **Power BI** and **Azure** to strengthen my visualization and cloud skills  
 
 ## 🚀 GitHub Vision  
