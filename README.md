@@ -58,10 +58,6 @@ Click to explore the repositories!
 1. 🛠️ [Flappy bird Game](https://github.com/SathiyanarayananSK/FlappyBirdGame-CSharp.git)
 2. 🛠️ [Robot Dodge Game](https://github.com/SathiyanarayananSK/RobotDodgeGame-CSharp.git)
 
-### 🌟 Web Development
-1. 🛠️ [Phone Genie eCommerce Website (Fullstack)](https://github.com/SathiyanarayananSK/MobileGenieWebsite-WebDevelopmentFullStack.git)
-2. 🛠️ [Football Webpage (Bootstrap)](https://github.com/SathiyanarayananSK/FootballWebpage-WebDevelopmentBootstrap.git)
-
 ### 🌟 SQL
 1. 🛠️ [Bookings Database (Embedded)](https://github.com/SathiyanarayananSK/BookingsDB-EmbeddedSQL.git)
 
@@ -72,6 +68,10 @@ Click to explore the repositories!
 
 ### 🌟 Deep Learning
 1. 🛠️ [Traffic Sign Classification](https://github.com/SathiyanarayananSK/TrafficSignClassification-DeepLearningPython.git)
+
+### 🌟 Web Development
+1. 🛠️ [Phone Genie eCommerce Website (Fullstack)](https://github.com/SathiyanarayananSK/MobileGenieWebsite-WebDevelopmentFullStack.git)
+2. 🛠️ [Football Webpage (Bootstrap)](https://github.com/SathiyanarayananSK/FootballWebpage-WebDevelopmentBootstrap.git)
 
 ### 🌟 Analytics
 1. 🛠️ [Wine Quality Prediction (R)](https://github.com/SathiyanarayananSK/WineQualityPrediction-R.git)
