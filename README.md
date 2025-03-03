@@ -8,7 +8,7 @@ Hi there! I'm @SathiyanarayananSK, a Master of Data Science student with a deep 
 
   **(a) 🖥️ Programming - Python:**  
    - **Basics:** Proficient in fundamentals and essentials
-   - **Modules:** `random`, `smtplib`, `requests`, `re`
+   - **Modules:** `random`, `smtplib`, `requests`, `re`, `pytest`
    - **Data Analysis:** `pandas`
    - **SQL Libraries:** `sqlite3`, `psycopg`
    - **Web Scraping:** `Selenium`, `selectorlib`
