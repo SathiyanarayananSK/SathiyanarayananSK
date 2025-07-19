@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub  
 
-Hi there! I'm @SathiyanarayananSK, a Master of Data Science student with a deep passion for uncovering insights, solving complex problems, and driving meaningful impact through data. With over 2.5 years of experience in the IT industry, I have contributed to delivering effective solutions in retail and e-commerce domains. My journey blends academic knowledge with hands-on experience, allowing me to approach challenges with curiosity, precision, and creativity.
+Hi there! I'm @SathiyanarayananSK, a Master of Data Science graduate with a deep passion for uncovering insights, solving complex problems, and driving meaningful impact through data. I'm especially passionate about becoming a Data Engineer, where I can design scalable data systems and build robust pipelines that turn raw data into actionable insights. With hands-on experience in designing and operating Azure Databricks–based pipelines, and over 3 years of experience in the IT industry, I have contributed to delivering effective solutions in sports, retail, and e-commerce domains. My journey blends academic knowledge with practical expertise, allowing me to approach challenges with curiosity, precision, and creativity.
 
 ## 💡 About Me  
 
@@ -12,19 +12,30 @@ Hi there! I'm @SathiyanarayananSK, a Master of Data Science student with a deep 
    - **Data Analysis:** `pandas`
    - **SQL Libraries:** `sqlite3`, `psycopg`
    - **Web Scraping:** `Selenium`, `selectorlib`
-   - **Frameworks & Tools:** Basic familiarity with `Flask`, `Django`, `fpdf`, `nltk`, and `PyQt`
+   - **Frameworks & Tools:** Basic familiarity with `pytest`, `Flask`, `Django`, `fpdf`, `nltk`, and `PyQt`
 
   **(b) 🖥️ SQL:** Strong foundation in relational databases with hands-on experience in most of the regularly used commands.
 
   **(c) 🖥️ Git-GitHub:** Confident in version control basics for seamless collaboration and project management.
   
-### 📊 **Domain Expertise:**  
+  **(d) 🖥️ Data Engineering Platform:** `Databricks` (Setup, job orchestration, and pipeline development) 
+  
+  **(e) 🖥️ Big Data & Spark:** `Apache Spark`  
+  
+### 📊 **Domain Expertise:** 
+  **Sports Domain Experience**
+  - Built data infrastructure for live sports analytics during my internship at LuckBox Studios, Melbourne.
+  - Set up a complete Azure Databricks workspace with proper cluster configurations, workspace structure, and access controls.
+  - Developed and deployed real-time data pipelines in Python to ingest live match and weather data from public APIs into Delta Lake on Azure Data Lake Storage.
+  - Designed and managed job scheduling and orchestration in Databricks to ensure reliable, automated data flows for downstream analysis.
+  - Took ownership of CI/CD practices and cloud integration, driving standards in workspace governance, branching strategy, and team workflows.
+    
   **Retail experience** 
   - **Point Of Sale (POS):** Facilitated a seamless transition of the POS software, resolved technical issues reported by stores, ensured accurate sales data and reporting, and collaborated with cross-functional teams to enhance system capabilities.  
   - **E-commerce:** Managed and resolved B2B/B2C website issues using HTML, Unix, and SQL, maintained and optimized web servers, and collaborated with various teams to ensure website updates aligned with business objectives. 
 
 ### 🌱 **What's Next?**  
-  - Upskilling in **Power BI** and **Azure** to strengthen my visualization and cloud skills  
+  - Preparing for the **Databricks Certified Data Engineer Associate** certification to deepen my expertise in building scalable data pipelines and managing data on the Databricks platform.
 
 ## 🚀 GitHub Vision  
 
